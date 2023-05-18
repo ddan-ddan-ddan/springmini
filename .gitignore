@@ -18,7 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### .properties files ###
-**/appication.properties
+!**/src/main/**/appication.properties
 
 ### IntelliJ IDEA ###
 .idea
